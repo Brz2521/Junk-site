@@ -17,6 +17,10 @@
     margin: 35px 0 20px;
 }
 
+.main h1{
+    color: #d0637c;
+}
+
 .main table{
     background: #ffe2e6;
     padding: 15px;
