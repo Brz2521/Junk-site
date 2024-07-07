@@ -7,3 +7,59 @@
     font-family: "Noto Sans", sans-serif;
 
 }
+
+.main{
+    flex: 6;
+    padding: 300px;
+}
+
+.main form{
+    background: #ffd1e3;
+    padding: 15px;
+    width: 100%;
+    border-radius: 14px;
+}
+
+.main .box{
+    background: #fff1f3;
+    display: flex;
+    align-items: center;
+    width: 75%;
+    padding: 6px 8px;
+    border-radius: 10px;
+}
+
+.main .button{
+    font-size: 16px;
+    border: none;
+    background: transparent;
+}
+
+.main input{
+    padding: 4px 6px;
+    font-size: 14px;
+    border: none;
+    outline: none;
+    width: 100%;
+}
+
+.main .txt{
+    font-size: 14px;
+    font-weight: 500;
+    padding: 13px;
+}
+
+.main .button{
+    background: #ff94b6;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    gap: 8px;
+}
+
+.main .button:hover{
+    background: #f85797;
+}
+
+
+
